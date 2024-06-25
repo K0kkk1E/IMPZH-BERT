@@ -11,7 +11,7 @@ This repository contains code, model, dataset for [IMPZH-BERT]
 
 The following image shows an overview architecture of IMPZH-BERT model.
  
-![MODEL](https://github.com/K0kkk1E/IMPZH-BERT/tree/main/images/IMPZH-BERT.png)
+![image](https://github.com/K0kkk1E/IMPZH-BERT/tree/main/images/IMPZH-BERT.png)
 
 
 ## Download 
